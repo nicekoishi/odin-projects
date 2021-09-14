@@ -1,3 +1,3 @@
-# odin-link-and-images
+# odin-projects
 
-Assignment link-and-images from Odin Project.
+This repository has all of my assignments of Odin Project
