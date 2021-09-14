@@ -1,1 +1,3 @@
-This is Lucas's first project!
+# Project Recipe
+
+This is a branch to access Project: Recipe. Currently it will be without CSS.
