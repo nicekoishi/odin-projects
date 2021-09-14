@@ -1,3 +1,3 @@
-# odin-projects
+# odin-link-and-images
 
-This is a collection of my assignments from The Odin Project.
+Assignment link-and-images from Odin Project.
