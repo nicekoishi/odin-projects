@@ -1,3 +1,3 @@
-# Project Recipe
+# odin-projects
 
-This is a branch to access Project: Recipe. Currently it will be without CSS.
+This is a collection of my assignments from The Odin Project.
